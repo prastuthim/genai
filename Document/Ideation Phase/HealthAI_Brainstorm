@@ -1,0 +1,43 @@
+Ideation Phase
+Brainstorm & Idea Prioritization Template
+Date: 26 June 2025
+Team ID: LTVIP2025TMID20350
+Project Name: HealthAI: Intelligent Healthcare Assistant
+Maximum Marks: 4 Marks
+Brainstorming provides a free and open environment that encourages everyone within a team to participate in the creative thinking process that leads to problem solving. Prioritizing volume over value, out-of-the-box ideas are welcome and built upon, and all participants are encouraged to collaborate, helping each other develop a rich amount of creative solutions.
+
+Use this template in your own brainstorming sessions so your team can unleash their imagination and start shaping concepts even if you're not sitting in the same room.
+
+Reference: https://www.mural.co/templates/brainstorm-and-idea-prioritization
+Step-1: Team Gathering, Collaboration and Select the Problem Statement
+Team Members:
+- Pavuluri Sai Lithan (Team Leader)
+- Nischintala Jai Manikanta Chari
+- Niharika Sreekakulapu
+- P B V S N Mahitha
+
+Selected Problem Statement:
+How might we build an AI-based assistant that improves healthcare accessibility, provides personalized health guidance, and integrates predictive and analytical features for patient support using IBM Watsonx and Generative AI?
+Step-2: Brainstorm, Idea Listing and Grouping
+Brainstormed Ideas:
+- Develop a chatbot that provides real-time answers to patient health queries.
+- Implement a system that predicts possible diseases based on user symptoms.
+- Generate treatment plans personalized to patient profiles.
+- Visualize health trends using analytics dashboards.
+- Use IBM Granite LLM for natural language interaction.
+- Add a profile-based recommendation system for lifestyle improvements.
+- Integrate with wearables for live data sync.
+- Offer multilingual support and voice-based interaction.
+Step-3: Idea Prioritization
+Top Priority Ideas for Implementation:
+1. Patient Chat using IBM Granite
+2. Disease Prediction using symptoms + profile
+3. Personalized Treatment Plan generation
+4. Health Analytics dashboards (heart rate, BP, glucose)
+
+Secondary Priority Ideas:
+- Wearable integration
+- Alert system for abnormal metrics
+- Multilingual voice support
+
+These ideas were selected based on feasibility, impact, and the ability to demonstrate the potential of IBM Watsonx.
